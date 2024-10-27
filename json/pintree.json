@@ -1,50 +1,27 @@
 [
   {
-      "//": "folder 表示是一个文件夹，可以配置子模块信息",
       "type": "folder",
-      "//": "添加的时间信息",
       "addDate": 1718526477999,
-      "//": "标题",
-      "title": "Java 陈序员",
-      "//": "子模块",
+      "title": "导航",
       "children": [
           {
-              "//": "link 表示是一个网站链接，最小化的配置单元",
               "type": "link",
-              "//": "添加的时间信息",
               "addDate": 1718526687700,
-              "//": "网站标题",
-              "title": "个人博客网站",
-              "//": "网站图标",
+              "title": "个人创建内容",
               "icon": "https://chencoding.top:8090/_media/logo.png",
-              "//": "网站地址",
               "url": "https://chencoding.top/"
           },
           {
               "type": "folder",
               "addDate": 1718526865665,
-              "title": "编程网站",
+              "title": "个人创建内容",
               "children": [
                   {
                       "type": "link",
                       "addDate": 1718526707006,
-                      "title": "CSDN",
-                      "icon": "https://img-home.csdnimg.cn/images/20201124032511.png",
-                      "url": "https://www.csdn.net/"
-                  },
-                  {
-                      "type": "link",
-                      "addDate": 1718526707006,
-                      "title": "掘金",
-                      "icon": "https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg",
-                      "url": "https://juejin.cn/"
-                  },
-                  {
-                      "type": "link",
-                      "addDate": 1718526707006,
-                      "title": "博客园",
-                      "icon": "https://www.cnblogs.com/images/logo.svg?v=2SMrXdIvlZwVoB1akyXm38WIKuTHVqvGD0CweV-B6cY",
-                      "url": "https://www.cnblogs.com/"
+                      "title": "blog",
+                      "icon": "https://vitepress.dev/vitepress-logo-mini.svg",
+                      "url": "https://15491.github.io/blog/"
                   }
               ]
           }
